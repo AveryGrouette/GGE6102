@@ -1,2 +1,2 @@
-# GGE6102
- Files for Quantitative Analysis
+# GGE6102 Final Term Paper
+ Files for Quantitative Analysis Term Paper
